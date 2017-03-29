@@ -1,0 +1,18 @@
+---
+title: "Problem7: InnerProduct"
+author: "Akira MATSUI"
+date: "March 29, 2017"
+output: pdf_document
+---
+
+# Introduction
+
+In this excersise, we will write a code to culculate inner product. If you have vectors, $A = (a_0, a_1,...,a_n )$ and $B=(a_0, a_1,...,a_n)$, a inner product of $A$ and $B$ is $A \cdot B = \sum^n_{i=0}a_ib_i$.
+
+
+# Question
+
+- write a function to culculate a inner product of one dimention vectors $A$ and $B$
+- in this excersise, let `A <- c(6,4,6,8,9,1)` and `B <- c(1,2,3,4,5,6)`
+- it is useful 
+
